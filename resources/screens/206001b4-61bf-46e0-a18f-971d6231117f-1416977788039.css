@@ -1,0 +1,19 @@
+#s-206001b4-61bf-46e0-a18f-971d6231117f {
+  background-color: transparent;
+  background-image: none;
+  min-width: 0px;
+  min-height: 0px;
+}
+#s-206001b4-61bf-46e0-a18f-971d6231117f > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.ui-page {
+  overflow-x: hidden;
+}
+#s-206001b4-61bf-46e0-a18f-971d6231117f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
